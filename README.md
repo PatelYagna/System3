@@ -1,4 +1,4 @@
-# The Job Queue
+# System 3.0
 This is a simple operating system simulation program built using Python and Tkinter. 
 The program provides basic functionalities such as: 
 login, sign up, note creation, random number generation, a guessing game, coin flipping, a calculator, statistics calculator, and various stack operations.
